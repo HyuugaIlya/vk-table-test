@@ -1,0 +1,15 @@
+.container {
+    max-width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+    @media (max-width: 1200px) {
+        flex-direction: column;
+        min-width: 80%;
+        margin: 0 auto;
+    };
+
+    @media (max-width: 575px) {
+        width: 90%;
+    };
+}

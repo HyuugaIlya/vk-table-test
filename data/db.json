@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Smartphone X",
+      "price": 799.99,
+      "category": "Electronics",
+      "inStock": true,
+      "brand": "TechMaster"
+    },
+    {
+      "id": "2",
+      "name": "Wireless Headphones",
+      "price": 129.99,
+      "category": "Audio",
+      "inStock": true,
+      "brand": "SoundWave"
+    },
+    {
+      "id": "3",
+      "name": "Laptop Pro",
+      "price": 1499.99,
+      "category": "Computers",
+      "inStock": false,
+      "brand": "EliteBook"
+    },
+    {
+      "id": "4",
+      "name": "Coffee Maker",
+      "price": 59.99,
+      "category": "Home Appliances",
+      "inStock": true,
+      "brand": "HomeBrew"
+    },
+    {
+      "id": "5",
+      "name": "Running Shoes",
+      "price": 89.99,
+      "category": "Sport",
+      "inStock": true,
+      "brand": "FastRun"
+    },
+    {
+      "id": "6",
+      "name": "Smart Watch",
+      "price": 199.99,
+      "category": "Wearables",
+      "inStock": true,
+      "brand": "TechMaster"
+    },
+    {
+      "id": "7",
+      "name": "Backpack",
+      "price": 49.99,
+      "category": "Accessories",
+      "inStock": true,
+      "brand": "OutdoorGear"
+    },
+    {
+      "id": "8",
+      "name": "Desk Lamp",
+      "price": 29.99,
+      "category": "Home",
+      "inStock": false,
+      "brand": "LumiHome"
+    },
+    {
+      "id": "9",
+      "name": "Bluetooth Speaker",
+      "price": 79.99,
+      "category": "Audio",
+      "inStock": true,
+      "brand": "SoundWave"
+    },
+    {
+      "id": "10",
+      "name": "Gaming Mouse",
+      "price": 49.99,
+      "category": "Gaming",
+      "inStock": true,
+      "brand": "GameGear"
+    },
+    {
+      "id": "11",
+      "name": "Yoga Mat",
+      "price": 24.99,
+      "category": "Fitness",
+      "inStock": true,
+      "brand": "FlexiFit"
+    },
+    {
+      "id": "12",
+      "name": "Water Bottle",
+      "price": 14.99,
+      "category": "Accessories",
+      "inStock": false,
+      "brand": "AquaLine"
+    },
+    {
+      "id": "13",
+      "name": "External SSD",
+      "price": 119.99,
+      "category": "Storage",
+      "inStock": true,
+      "brand": "DataStorm"
+    },
+    {
+      "id": "14",
+      "name": "Sunglasses",
+      "price": 89.99,
+      "category": "Fashion",
+      "inStock": true,
+      "brand": "SunShield"
+    },
+    {
+      "id": "15",
+      "name": "Air Fryer",
+      "price": 99.99,
+      "category": "Kitchen",
+      "inStock": true,
+      "brand": "HomeBrew"
+    },
+    {
+      "id": "16",
+      "name": "Power Bank",
+      "price": 39.99,
+      "category": "Electronics",
+      "inStock": false,
+      "brand": "TechMaster"
+    },
+    {
+      "id": "17",
+      "name": "Notebook",
+      "price": 9.99,
+      "category": "Stationery",
+      "inStock": true,
+      "brand": "PaperPlus"
+    },
+    {
+      "id": "18",
+      "name": "T-Shirt",
+      "price": 19.99,
+      "category": "Clothing",
+      "inStock": true,
+      "brand": "CottonWear"
+    },
+    {
+      "id": "19",
+      "name": "Wireless Charger",
+      "price": 29.99,
+      "category": "Accessories",
+      "inStock": true,
+      "brand": "TechMaster"
+    },
+    {
+      "id": "20",
+      "name": "Desk Organizer",
+      "price": 19.99,
+      "category": "Office",
+      "inStock": false,
+      "brand": "OfficePro"
+    },
+    {
+      "id": "21",
+      "name": "Monitor 27\" 4K",
+      "price": 349.99,
+      "category": "Electronics",
+      "inStock": true,
+      "brand": "EliteBook"
+    },
+    {
+      "id": "22",
+      "name": "Keyboard Mechanical",
+      "price": 89.99,
+      "category": "Computers",
+      "inStock": true,
+      "brand": "GameGear"
+    },
+    {
+      "id": "23",
+      "name": "Portable Blender",
+      "price": 34.99,
+      "category": "Kitchen",
+      "inStock": false,
+      "brand": "HomeBrew"
+    },
+    {
+      "id": "24",
+      "name": "Fitness Tracker",
+      "price": 59.99,
+      "category": "Wearables",
+      "inStock": true,
+      "brand": "FlexiFit"
+    },
+    {
+      "id": "25",
+      "name": "Hoodie",
+      "price": 39.99,
+      "category": "Clothing",
+      "inStock": true,
+      "brand": "CottonWear"
+    },
+    {
+      "id": "26",
+      "name": "USB-C Cable",
+      "price": 12.99,
+      "category": "Accessories",
+      "inStock": true,
+      "brand": "TechMaster"
+    },
+    {
+      "id": "27",
+      "name": "E-Reader",
+      "price": 129.99,
+      "category": "Electronics",
+      "inStock": false,
+      "brand": "DataStorm"
+    },
+    {
+      "id": "28",
+      "name": "Sneakers",
+      "price": 69.99,
+      "category": "Footwear",
+      "inStock": true,
+      "brand": "FastRun"
+    },
+    {
+      "id": "29",
+      "name": "Smart Bulb",
+      "price": 24.99,
+      "category": "Smart Home",
+      "inStock": true,
+      "brand": "LumiHome"
+    },
+    {
+      "id": "30",
+      "name": "Back Massager",
+      "price": 49.99,
+      "category": "Wellness",
+      "inStock": false,
+      "brand": "FlexiFit"
+    }
+  ]
+}
